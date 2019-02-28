@@ -9,5 +9,6 @@ public class Main {
         new EaterThread("EaterThread-1", table, 73154).start();
         new EaterThread("EaterThread-2", table, 73153).start();
         new EaterThread("EaterThread-3", table, 73151).start();
+        System.out.println("Ok");
     }
 }
