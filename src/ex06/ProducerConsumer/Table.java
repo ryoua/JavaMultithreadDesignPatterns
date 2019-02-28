@@ -19,7 +19,6 @@ public class Table {
             wait();
         }
 
-
         buffer[tail] = cake;
         tail = (tail + 1) % buffer.length;
         count++;
