@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="446fdce0-d981-493d-8fb5-a6a3885fedc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex03/Immutable/ListMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/Immutable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/Immutable/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/Immutable/PrintPersonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/Immutable/ReadThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/Immutable/WriteThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/GuardedSuspension/ClientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/GuardedSuspension/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/GuardedSuspension/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/GuardedSuspension/RequestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/GuardedSuspension/ServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Balking/ChangerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Balking/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Balking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Balking/SaverThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex06/ProducerConsumer/EaterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex06/ProducerConsumer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex06/ProducerConsumer/MakerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex06/ProducerConsumer/Table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleThreadedExecution/BoundMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/SingleThreadedExecution/BoundMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleThreadedExecution/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/SingleThreadedExecution/Gate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleThreadedExecution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/SingleThreadedExecution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleThreadedExecution/UserThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/SingleThreadedExecution/UserThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleThreadedExecution/UserThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/SingleThreadedExecution/UserThread1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex06/ProducerConsumer/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            <state relative-caret-position="187">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -127,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -280,23 +256,31 @@
       <workItem from="1551266348320" duration="924000" />
       <workItem from="1551270257647" duration="1223000" />
       <workItem from="1551316370135" duration="3337000" />
-      <workItem from="1551330458870" duration="2591000" />
+      <workItem from="1551330458870" duration="2836000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1551335162653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551335162653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26612000" />
+    <option name="totallyTimeSpent" value="26857000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19474836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09488273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32394367" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32081544" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,6 +301,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
@@ -577,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex06/ProducerConsumer/Table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        <state relative-caret-position="187">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
