@@ -1,4 +1,4 @@
-package SingleThreadedExecution;
+package ex02.SingleThreadedExecution;
 
 import java.util.Random;
 

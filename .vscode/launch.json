@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ex06.ProducerConsumer.Main",
+            "projectName": "JavaMultithreadDesignPatterns_ac301c47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ex04.GuardedSuspension.Main",
+            "projectName": "JavaMultithreadDesignPatterns_ac301c47"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ex05.Balking.Main"
+        }
+    ]
+}

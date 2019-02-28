@@ -1,7 +1,5 @@
-package SingleThreadedExecution;
+package ex02.SingleThreadedExecution;
 
-
-import com.sun.deploy.ui.AboutDialog;
 
 import java.util.Random;
 import java.util.concurrent.Semaphore;

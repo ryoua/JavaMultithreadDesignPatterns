@@ -1,4 +1,4 @@
-package SingleThreadedExecution;
+package ex02.SingleThreadedExecution;
 
 public class Main {
     public static void main(String[] args) {

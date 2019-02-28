@@ -1,4 +1,4 @@
-package SingleThreadedExecution;
+package ex02.SingleThreadedExecution;
 
 public class UserThread extends Thread{
     private final Gate gate;

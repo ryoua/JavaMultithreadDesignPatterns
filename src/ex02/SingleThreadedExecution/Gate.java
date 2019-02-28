@@ -1,4 +1,4 @@
-package SingleThreadedExecution;
+package ex02.SingleThreadedExecution;
 
 public class Gate {
     private int counter = 0;
