@@ -5,10 +5,11 @@ public class Gate {
     private String name = "Nobody";
     private String address = "Nowhere";
 
-    public synchronized void pass(String name, String address) {
+    public synchronized void pass(String  name, String address) {
         this.counter++;
         this.address = address;
         this.name = name;
+        check();
     }
 
     public synchronized String toString() {

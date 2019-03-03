@@ -1,5 +1,6 @@
 package ex03.Immutable;
 
+
 public class PrintPersonThread extends Thread{
     private Person person;
 
