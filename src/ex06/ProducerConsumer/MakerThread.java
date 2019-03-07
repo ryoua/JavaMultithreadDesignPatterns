@@ -7,6 +7,7 @@ public class MakerThread extends Thread{
     private final Table table;
 
     private static int id = 0;
+
     public MakerThread(String name, Table table, long seed) {
         super(name);
         this.table = table;

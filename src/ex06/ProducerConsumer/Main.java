@@ -1,5 +1,10 @@
 package ex06.ProducerConsumer;
 
+/**
+ * Producer-Consumer模式
+ * 简介: 生产者安全地将数据交给消费者
+ * 角色: Data, Producer, Consumer, Channel
+ */
 public class Main {
     public static void main(String[] args) {
         Table table = new Table(3);
