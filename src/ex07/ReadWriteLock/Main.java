@@ -1,5 +1,8 @@
 package ex07.ReadWriteLock;
 
+/**
+ * Read-Write Lock模式
+ */
 public class Main {
     public static void main(String[] args) {
         Data data = new Data(10);
