@@ -2,8 +2,10 @@
   <dictionary name="ryoua">
     <words>
       <w>abcdefghijklmnopqrstuvwxyz</w>
+      <w>countup</w>
       <w>myaddress</w>
       <w>myname</w>
+      <w>ryoua</w>
     </words>
   </dictionary>
 </component>
