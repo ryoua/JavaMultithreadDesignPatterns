@@ -1,9 +1,12 @@
-package ex01;
+package com.ryoua.chapter01;
 
-public class Printer implements Runnable {
+/**
+ * @Author ryoua Created on 2019-05-22
+ */
+public class PrintThread extends Thread {
     private String message;
 
-    public Printer(String message) {
+    public PrintThread(String message) {
         this.message = message;
     }
 

@@ -1,10 +1,13 @@
-package ex01;
+package com.ryoua.chapter01;
 
+/**
+ * @Author ryoua Created on 2019-05-22
+ */
 public class Bank {
     private int money;
     private String name;
 
-    public Bank(String name, int money) {
+    public Bank(int money, String name) {
         this.money = money;
         this.name = name;
     }
